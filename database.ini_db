@@ -1,0 +1,6 @@
+[postgresql]
+host=dathenacentraldb.postgres.database.azure.com
+database=plg_z3yklndp6o8l5rfv_dpm
+user=data_admin
+password=aV6E!9z8q0fmTuUt
+port=5432
